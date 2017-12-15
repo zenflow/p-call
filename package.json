@@ -1,0 +1,28 @@
+{
+  "name": "p-call",
+  "version": "1.0.0",
+  "description": "Call a legacy async method and return a promise",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://zenflow@github.com/zenflow/p-call.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zenflow/p-call/issues"
+  },
+  "homepage": "https://github.com/zenflow/p-call#readme",
+  "license": "MIT"
+}
