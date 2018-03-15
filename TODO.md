@@ -1,7 +1,6 @@
 - Add explanation to README (why `require('pify')` or `require('utils').promisify` is not enough)
 - Enable Travis CI
 - Add test coverage
-- Add linting with eslint-config-zenflow (create it first, copy eslint-config-mtdirect or https://github.com/eslint/eslint/issues/3458#issuecomment-333036299)
 - add badges to README
 - Support ES5 environments?
 - Add to https://github.com/wbinnssmith/awesome-promises & https://github.com/sindresorhus/promise-fun
